@@ -1,0 +1,25 @@
+<h1=style"color:red"> Things that I like to do </h1> 
+    <ul>
+        <li> Play Sports </li>
+        <li> Play Video games</li>
+        <li> Spend time with my family </li> 
+    </ul>
+
+<h2=style"color:lightred> Top 3 favortite sports </h2> 
+    <ol>
+        <li> Basketball </li> 
+        <li> Football </li> 
+        <li> Soccer> </li> 
+    </ol>
+
+<h3=style"color:darkred> Top 3 Favorite video games <h3> 
+    <ol> 
+        <li> Splatoon 3 </li>
+        <li> Nba2k22 </li> 
+        <li> Fortnite </li>
+    </ol>
+
+<body=style"background-color:blue> These are all things that I like to do. I hope that you found this somewhat 
+interesting. Thank you for listening! </body>
+
+<img src="https://images.pexels.com/photos/680074/pexels-photo-680074.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Basketball Court">
